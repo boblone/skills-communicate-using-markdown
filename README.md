@@ -4,4 +4,4 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-!(https://octodex.github.com/images/yaktocat.png)
+![。。](https://octodex.github.com/images/yaktocat.png)
